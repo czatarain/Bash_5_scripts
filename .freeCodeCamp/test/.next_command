@@ -101,3 +101,18 @@ history -a
 ./questionnaire.sh
 echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
 history -a
+./questionnaire.sh
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+ls --color=auto -lah
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+chmod --help
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+chmod 433 questionnaire.sh
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+ls --color=auto -l
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
