@@ -134,3 +134,24 @@ history -a
 ./questionnaire.sh
 echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
 history -a
+cd .vscode
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+ls --color=auto -lah
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+chmod 755 settings.json
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+ls --color=auto -la
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+chmod 444 settings.json
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+chmod 755 settings.json
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+chmod 777 settings.json
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
