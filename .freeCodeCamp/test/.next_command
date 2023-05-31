@@ -155,3 +155,9 @@ history -a
 chmod 777 settings.json
 echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
 history -a
+cd ..
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+./questionnaire.sh
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
