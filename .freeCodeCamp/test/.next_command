@@ -116,3 +116,6 @@ history -a
 ls --color=auto -l
 echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
 history -a
+chmod 733 questionnaire.sh
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
