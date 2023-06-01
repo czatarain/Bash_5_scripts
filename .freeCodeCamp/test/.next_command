@@ -236,3 +236,12 @@ history -a
 chmod +x bingo.sh
 echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
 history -a
+ls --color=auto -lah
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+clear
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+which bash
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
