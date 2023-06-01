@@ -254,3 +254,6 @@ history -a
 echo $LANG
 echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
 history -a
+declare -p
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
