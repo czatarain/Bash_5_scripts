@@ -925,3 +925,12 @@ history -a
 help test
 echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
 history -a
+help again
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+man again
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+help function
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
