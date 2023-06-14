@@ -1057,3 +1057,9 @@ history -a
 ./five.sh
 echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
 history -a
+man sh
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+help sh
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
