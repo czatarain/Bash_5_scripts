@@ -946,3 +946,105 @@ history -a
 ./fortune.sh
 echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
 history -a
+./fortune.sh
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+./fortune.sh
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+./fortune.sh again
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+./fortune.sh again jhj
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+./fortune.sh again jhj kjkj
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+clear
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+echo $1
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+./fortune.sh agkjk
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+./fortune.sh 1
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+echo $1
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+declare -p 1
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+declare -p
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+1="test"
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+./fortune.sh "hola?"
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+./fortune.sh "hola?"
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+declare -p again
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+./fortune.sh
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+./fortune.sh
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+./fortune.sh
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+./fortune.sh
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+./fortune.sh
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+./fortune.sh
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+./fortune.sh
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+./fortune.sh
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+./fortune.sh
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+./fortune.sh
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+help test
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+./fortune.sh
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+./fortune.sh
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+git add fortune.sh
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+git commit -m "Finished, tested, and annotated the fortune.sh script"
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+git status
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+exit
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+touch five.sh
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
